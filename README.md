@@ -31,7 +31,7 @@ Make sure you have Python installed. This project requires the following Python 
 
    Open your terminal and run:
    ```bash
-   git clone https://github.com/your-username/PythonCFD.git
+   git clone https://github.com/ah-lasheen/PythonCFD.git
    cd PythonCFD
    
 2. **Install Dependencies**
