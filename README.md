@@ -21,7 +21,7 @@ A dynamic fluid source injects density and momentum (velocity) into the simulati
 
 # Prerequisites
 
-Make sure you have Python 3 installed. This project requires the following Python packages:
+Make sure you have Python installed. This project requires the following Python packages:
 - [NumPy](https://numpy.org)
 - [Matplotlib](https://matplotlib.org/)
 
