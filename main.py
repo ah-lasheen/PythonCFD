@@ -209,5 +209,5 @@ def update(frame):
     return im,
 
 # Run animation and show plot
-ani = FuncAnimation(fig, update, frames = 200, interval = 50, blit = True)
+ani = FuncAnimation(fig, update, frames = 60, interval = 16, blit = True)
 plt.show()
